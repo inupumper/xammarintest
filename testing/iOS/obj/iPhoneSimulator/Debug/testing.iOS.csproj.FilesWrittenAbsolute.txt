@@ -1,0 +1,17 @@
+/Users/admin/Projects/testing/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/admin/Projects/testing/iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/admin/Projects/testing/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/testing/iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/admin/Projects/testing/iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/admin/Projects/testing/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/admin/Projects/testing/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/admin/Projects/testing/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/admin/Projects/testing/iOS/bin/iPhoneSimulator/Debug/testing.iOS.exe.mdb
+/Users/admin/Projects/testing/iOS/bin/iPhoneSimulator/Debug/testing.iOS.exe
+/Users/admin/Projects/testing/iOS/obj/iPhoneSimulator/Debug/testing.iOS.exe
+/Users/admin/Projects/testing/iOS/obj/iPhoneSimulator/Debug/testing.iOS.exe.mdb
+/Users/admin/Projects/testing/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/admin/Projects/testing/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/admin/Projects/testing/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/admin/Projects/testing/iOS/bin/iPhoneSimulator/Debug/testing.dll
+/Users/admin/Projects/testing/iOS/bin/iPhoneSimulator/Debug/testing.dll.mdb

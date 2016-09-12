@@ -1,0 +1,9 @@
+/Users/admin/Projects/testing/testing/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/admin/Projects/testing/testing/obj/Debug/testing.testing.xaml
+/Users/admin/Projects/testing/testing/obj/Debug/testing.xaml.g.cs
+/Users/admin/Projects/testing/testing/bin/Debug/testing.dll.mdb
+/Users/admin/Projects/testing/testing/bin/Debug/testing.dll
+/Users/admin/Projects/testing/testing/obj/Debug/testing.dll
+/Users/admin/Projects/testing/testing/obj/Debug/testing.dll.mdb
+/Users/admin/Projects/testing/testing/bin/Debug/Xamarin.Forms.Core.dll
+/Users/admin/Projects/testing/testing/bin/Debug/Xamarin.Forms.Xaml.dll
